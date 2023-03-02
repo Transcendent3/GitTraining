@@ -45,4 +45,4 @@
 10. **git merge**
 
 Чтобы слить любую ветку с текущей, вызываем
-git checkout 
+git merge 
